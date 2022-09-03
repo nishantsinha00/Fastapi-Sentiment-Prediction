@@ -55,16 +55,17 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/nishantsinha00/Fastapi-Sentiment-Prediction.git
    ```
-3. Install NPM packages
+3. Install required python packages 
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run the following command in the terminal
+   ```sh
+   uvicorn -app.api:app --reload;
    ```
+5. Go to http://localhost/8000/docs to test the API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
