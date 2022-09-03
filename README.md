@@ -82,10 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Nishant Sinha](https://www.linkedin.com/in/nishant-sinha-201885191/) - nishantsinha00@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Nishant Sinha - [@LinkedIn](https://www.linkedin.com/in/nishant-sinha-201885191/) - nishantsinha00@example.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
