@@ -36,10 +36,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 * [![Python][python.org]][python-url]
 * [![Anaconda][Anaconda.com]][Anaconda-url]
@@ -67,7 +63,11 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### or 
+* Run remote docker image
+    ```sh
+    docker run -dp 80:80 nishantsinha00/fastapi-sentiment-prediction
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
