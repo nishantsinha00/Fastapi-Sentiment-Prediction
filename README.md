@@ -63,7 +63,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Running containerized API
+### or 
+* Run remote docker image
     ```sh
     docker run -dp 80:80 nishantsinha00/fastapi-sentiment-prediction
    ```
