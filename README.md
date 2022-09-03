@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 * [![Python][python.org]][python-url]
-* [![Anaconda][Anaconda.org]][Anaconda-url]
+* [![Anaconda][Anaconda.com]][Anaconda-url]
 
 ### Installation
 
