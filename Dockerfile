@@ -6,4 +6,4 @@ COPY ./tokenizer.pickle /app
 COPY ./config.json /app
 COPY ./model /app/model
 COPY ./app /app/app
-CMD ["uvicorn", "app.api:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app.api:app", "--host", "0.0.0.0", "--port", "80"]
