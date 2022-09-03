@@ -46,8 +46,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Create anaconda env
     ```sh
    conda create --name FastAPIenv pyhton=3.7
@@ -63,7 +61,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Run the following command in the terminal
    ```sh
-   uvicorn -app.api:app --reload;
+   uvicorn -app.api:app --reload
    ```
 5. Go to http://localhost/8000/docs to test the API
 
@@ -84,7 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Nishant Sinha](https://www.linkedin.com/in/nishant-sinha-201885191/) - nishantsinha00@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
