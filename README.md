@@ -4,16 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+I have created a Sentiment Predictor using a GRU model with the help of the Tensorflow Library and used FastAPI to develop an API endpoint on Python which can accept english text and respond with the predicted sentiment and the confidence of the predicted sentiment. The API is containerized using Docker and the Docker image is pushed to the Docker Hub remote repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
